@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer-left, .footer-right{
+    display: flexbox;
+}
